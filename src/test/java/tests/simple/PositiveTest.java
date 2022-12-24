@@ -1,36 +1,54 @@
-import org.junit.jupiter.api.Disabled;
+package tests.simple;
+
 import org.junit.jupiter.api.Test;
+
+import java.sql.Struct;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class SkippedTest {
+public class PositiveTest {
     @Test
-    @Disabled
     void test1() {
         assertTrue(true);
     }
 
     @Test
-    @Disabled
     void test2() {
         assertTrue(true);
     }
 
     @Test
-    @Disabled
     void test3() {
         assertTrue(true);
     }
 
     @Test
-    @Disabled
     void test4() {
         assertTrue(true);
     }
 
     @Test
-    @Disabled("Some reason")
     void test5() {
+        assertTrue(true);
+    }
+
+    @Test
+    void test6() {
+        assertTrue(true);
+    }
+
+    @Test
+    void test7() {
+        assertTrue(true);
+    }
+
+    @Test
+    void test8() {
+        assertTrue(true);
+    }
+
+    @Test
+    void test9() {
         assertTrue(true);
     }
 }
