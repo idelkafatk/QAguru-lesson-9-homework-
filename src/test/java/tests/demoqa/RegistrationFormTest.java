@@ -30,8 +30,8 @@ public class RegistrationFormTest extends TestBase {
             hobby3 = "Music",
             picture = "1.png",
             currentAddress = faker.address().fullAddress(),
-            state = "Uttar Pradesh",
-            city = "Agra";
+            state = "NCR",
+            city = "Delhi";
 
     @Test
     void successfulFillFormTest() {
