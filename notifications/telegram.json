@@ -6,7 +6,7 @@
     "reportLink": "github.com/idelkafatk",
     "language": "ru",
     "allureFolder": "allure-report/",
-    "enableChart": false
+    "enableChart": true
   },
   "telegram": {
     "token": "5925907008:AAGgw2qeaGW0CvZJMvbA_vYV24kuQRm3CI8",
