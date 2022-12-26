@@ -1,6 +1,7 @@
 package tests.demoqa;
 
 import com.github.javafaker.Faker;
+import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import tests.TestBase;
 
@@ -9,6 +10,7 @@ import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.*;
 import static io.qameta.allure.Allure.step;
 
+@Tag("properties")
 public class RegistrationFormTest extends TestBase {
 
     Faker faker = new Faker();

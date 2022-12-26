@@ -3,6 +3,7 @@ package tests.properties;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 
+@Tag("properties")
 public class SystemPropertiesTest {
     @Test
     void someTest() {
@@ -18,7 +19,6 @@ public class SystemPropertiesTest {
     }
 
     @Test
-    @Tag("properties")
     void someTest3() {
         String browser = System.getProperty("browser", "chrome");
         String version = System.getProperty("version", "92");
