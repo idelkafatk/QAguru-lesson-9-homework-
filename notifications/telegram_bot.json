@@ -6,13 +6,13 @@
       "replyTo": ""
     },
     "base": {
-      "lang": "en",
+      "lang": "ru",
       "messenger": "telegram",
       "allureFolder": "allure-report/",
       "allureLinkPath": "allure",
       "chart": true,
-      "chartName": "",
-      "project": ""
+      "chartName": "1",
+      "project": "1"
     },
     "mail": {
       "host": "",
