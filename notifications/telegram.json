@@ -5,6 +5,10 @@
     "enableChart": true
   },
   "telegram": {
+    "project": "Кредитование",
+    "environment": "dev",
+    "comment": "Салам-пополам",
+    "reportLink": "github.com/idelkafatk",
     "token": "5925907008:AAGgw2qeaGW0CvZJMvbA_vYV24kuQRm3CI8",
     "chat": "835917209",
     "replyTo": ""

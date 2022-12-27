@@ -8,7 +8,3 @@ java  \
 -jar allure-notifications-4.2.1.jar
 
 ///remote
-    "project": "Кредитование",
-    "environment": "dev",
-    "comment": "Салам-пополам",
-    "reportLink": "github.com/idelkafatk",
