@@ -1,9 +1,5 @@
 {
   "base": {
-    "project": "Кредитование",
-    "environment": "dev",
-    "comment": "Салам-пополам",
-    "reportLink": "github.com/idelkafatk",
     "language": "ru",
     "allureFolder": "allure-report/",
     "enableChart": true
