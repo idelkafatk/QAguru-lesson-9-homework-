@@ -1,9 +1,9 @@
 {
   "base": {
-    "project": "",
-    "environment": "",
-    "comment": "",
-    "reportLink": "",
+    "project": "Credit",
+    "environment": "test",
+    "comment": "Hey",
+    "reportLink": "github.com/idelkafatk",
     "language": "ru",
     "allureFolder": "allure-report/",
     "enableChart": true
